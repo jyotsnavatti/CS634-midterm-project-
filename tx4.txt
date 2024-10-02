@@ -1,0 +1,20 @@
+1 milk, detergent, water, diaper
+2 milk
+3 water, umbrella, beer, bread
+4 detergent, bread, cheese, milk, beer
+5 milk, umbrella, bread, diaper, cheese
+6 cheese, water, detergent, umbrella, beer, bread
+7 detergent, diaper, water, milk, beer, bread
+8 bread, cheese
+9 bread, umbrella
+10 water, bread, beer, umbrella
+11 umbrella, water
+12 detergent, cheese
+13 milk, beer, bread, detergent
+14 milk, cheese, umbrella
+15 beer, diaper
+16 umbrella, milk, beer
+17 bread
+18 beer, bread, diaper, detergent
+19 detergent, diaper, umbrella, milk, beer, bread
+20 diaper
